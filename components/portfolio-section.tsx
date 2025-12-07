@@ -15,19 +15,26 @@ export function PortfolioSection() {
 
   // Images pour WhatsApp-AI-V1
   const v1Screenshots = [
-    "https://via.placeholder.com/400x711/25D366/FFFFFF?text=WhatsApp-AI-V1+1",
-    "https://via.placeholder.com/400x711/25D366/FFFFFF?text=WhatsApp-AI-V1+2",
-    "https://via.placeholder.com/400x711/25D366/FFFFFF?text=WhatsApp-AI-V1+3",
-    "https://via.placeholder.com/400x711/25D366/FFFFFF?text=WhatsApp-AI-V1+4",
+    "/images/v1Screenshots/IMG-20251207-WA0001.jpg",
+    "/images/v1Screenshots/IMG-20251207-WA0002.jpg",
+    "/images/v1Screenshots/IMG-20251207-WA0003.jpg",
+    "/images/v1Screenshots/IMG-20251207-WA0004.jpg",
+    "/images/v1Screenshots/IMG-20251207-WA0015.jpg",
+    "/images/v1Screenshots/IMG-20251207-WA0016.jpg",
   ]
 
   // Images pour WhatsApp-AI-V2
   const v2Screenshots = [
-    "https://via.placeholder.com/400x711/25D366/FFFFFF?text=WhatsApp-AI-V2+1",
-    "https://via.placeholder.com/400x711/25D366/FFFFFF?text=WhatsApp-AI-V2+2",
-    "https://via.placeholder.com/400x711/25D366/FFFFFF?text=WhatsApp-AI-V2+3",
-    "https://via.placeholder.com/400x711/25D366/FFFFFF?text=WhatsApp-AI-V2+4",
-    "https://via.placeholder.com/400x711/25D366/FFFFFF?text=WhatsApp-AI-V2+5",
+    "/images/v2Screenshots/IMG-20251207-WA0006.jpg",
+    "/images/v2Screenshots/IMG-20251207-WA0007.jpg",
+    "/images/v2Screenshots/IMG-20251207-WA0008.jpg",
+    "/images/v2Screenshots/IMG-20251207-WA0009.jpg",
+    "/images/v2Screenshots/IMG-20251207-WA0010.jpg",
+    "/images/v2Screenshots/IMG-20251207-WA0011.jpg",
+    "/images/v2Screenshots/IMG-20251207-WA0012.jpg",
+    "/images/v2Screenshots/IMG-20251207-WA0013.jpg",
+    "/images/v2Screenshots/IMG-20251207-WA0014.jpg",
+    "/images/v2Screenshots/WhatsApp Image 2025-12-07 at 17.53.57_7679d352.jpg",
   ]
 
   const projects = [
